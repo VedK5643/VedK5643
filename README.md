@@ -10,13 +10,12 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=VedK5643&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" height="165em"/>
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VedK5643&theme=github_dark">
 <img src="https://streak-stats.demolab.com/?user=VedK5643&theme=github_dark&hide_border=false" height="165em"/>
-</p>
-
-<p align="center">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VedK5643&theme=github_dark">  
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VedK5643&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165em"/>
 </p>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/VedK5643/VedK5643/output/github-snake-dark.svg" alt="Snake animation" />

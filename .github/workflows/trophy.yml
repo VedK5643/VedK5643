@@ -22,6 +22,7 @@ jobs:
         with:
           username: VedK5643
           file: profile-trophy.svg
+          theme: dark_dimmed
           token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit

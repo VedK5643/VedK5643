@@ -18,3 +18,6 @@
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VedK5643&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165em"/>
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VedK5643/VedK5643/output/github-snake-dark.svg" alt="Snake animation" />
+</div>

@@ -13,9 +13,8 @@
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VedK5643&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165em"/>
 </p>
 
-
-## 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=VedK5643&theme=react-dark)
+## 🏆 GitHub Trophies
+![trophy](https://raw.githubusercontent.com/VedK5643/VedK5643/main/profile-trophy.svg)
 
 
 ## 🌐 Socials:

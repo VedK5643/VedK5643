@@ -22,7 +22,7 @@ jobs:
         with:
           username: VedK5643
           file: profile-trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit
         run: |

@@ -14,9 +14,8 @@
 </p>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VedK5643/VedK5643/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
+## 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=VedK5643&theme=react-dark)
 
 
 ## 🌐 Socials:

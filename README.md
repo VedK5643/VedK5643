@@ -1,22 +1,142 @@
-# 💫 Hi 👋, I'm Vedagya Gupta
--🔭 I'm currently working on ML portfolio projects <br>- 🌱 I'm currently learning advanced ML techniques (SHAP, XGBoost, model deployment)<br>- 👯 I'm looking to collaborate on Data Science / ML projects<br>- 🤔 I'm looking for help with production-grade ML pipelines<br>- 💬 Ask me about Python, SQL, XGBoost, scikit-learn, Streamlit<br>- 📫 How to reach me: https://www.linkedin.com/in/vedagya-gupta/<br>
+<div align="center">
 
+<!-- animated reveal wrapper around the avatar — pure CSS, no JS -->
+<picture>
+  <img src="https://avatars.githubusercontent.com/u/184279891?v=4" width="220" style="border-radius:50%;animation:portraitReveal 1.1s ease-out forwards;" alt="Vedagya Gupta">
+</picture>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
+<svg width="0" height="0">
+  <style>
+    @keyframes portraitReveal {
+      0%   { opacity: 0; transform: scale(0.85); filter: blur(6px); }
+      60%  { opacity: 1; transform: scale(1.04); filter: blur(0px); }
+      100% { opacity: 1; transform: scale(1); }
+    }
+  </style>
+</svg>
 
-<p align="center">
+<br>
+
+<a href="https://github.com/VedK5643">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Vedagya+Gupta;Data+Science+%26+Machine+Learning;B.Tech+CSE+%40+JECRC+Foundation;01100100+01100001+01110100+01100001" alt="typing banner">
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/vedagya-gupta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:vedagyagupta@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+<img src="https://komarev.com/ghpvc/?username=VedK5643&style=flat&color=39d353&label=profile+views" alt="profile views">
+
+</div>
+
+---
+
+## `~/` whoami
+
+```console
+$ cat about.txt
+```
+
+Hi, I'm **Vedagya** — a B.Tech CSE student (RTU, JECRC Foundation, Jaipur) building toward
+**Data Science and Machine Learning**. I like turning raw, messy datasets into models that
+actually predict something useful, and I solve DSA problems to keep my fundamentals sharp.
+
+- 🔭 I'm currently working on **ML portfolio projects**
+- 🌱 I'm currently learning **advanced ML techniques (SHAP, XGBoost, model deployment)**
+- 👯 I'm looking to collaborate on **Data Science / ML projects**
+- 🤔 I'm looking for help with **production-grade ML pipelines**
+- 💬 Ask me about **Python, SQL, XGBoost, scikit-learn, Streamlit**
+- 🎯 Aiming for Data Science / ML roles — not analyst
+
+<br>
+
+<div align="center">
+
+## `~/` toolbox
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` skill radar
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedK5643&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="most used languages">
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` contribution calendar
+
+<!-- generated by .github/workflows/metrics.yml — filename must match exactly: metrics.isocalendar.svg on the main branch -->
+<img src="https://raw.githubusercontent.com/VedK5643/VedK5643/main/metrics.isocalendar.svg" width="90%" alt="isometric contribution calendar">
+
+<br><br>
+
+<!-- generated by .github/workflows/snake.yml (Platane/snk) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VedK5643/VedK5643/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VedK5643/VedK5643/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VedK5643/VedK5643/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` the numbers
+
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VedK5643&theme=github_dark">
-<img src="https://streak-stats.demolab.com/?user=VedK5643&theme=github_dark&hide_border=false" height="165em"/>
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VedK5643&theme=github_dark">  
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VedK5643&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165em"/>
-</p>
+<img src="https://streak-stats.demolab.com/?user=VedK5643&theme=github_dark&hide_border=false" height="165em">
 
-## 🏆 GitHub Trophies
-![trophy](https://raw.githubusercontent.com/VedK5643/VedK5643/main/profile-trophy.svg)
+<br>
 
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VedK5643&theme=github_dark">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedagya-gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedagyagupta@gmail.com) 
+<br><br>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=VedK5643&theme=darkhub&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` selected work
+
+</div>
+
+| Project | Description | Stack |
+|---|---|---|
+| 🛫 **[Flight Delay Intelligence System](https://github.com/VedK5643/flight-delay-intelligence-system)** | ML platform analyzing 2.9M+ flights to decode delay patterns and predict on-time performance | `Python` `Scikit-learn` `XGBoost` `SHAP` |
+| 🧮 **[DSA-CPP](https://github.com/VedK5643/DSA-CPP)** | Data Structures & Algorithms implemented in C++ with clear, beginner-friendly solutions | `C++` |
+| 📈 **[EDA-Projects](https://github.com/VedK5643/EDA-Projects)** | Exploratory Data Analysis notebooks on real-world datasets | `Python` `Pandas` `Seaborn` |
+| 🗄️ **[SQL Job Market Analysis](https://github.com/VedK5643/sql_job_market_analysis)** | Analyzing the data jobs market using PostgreSQL — top paying roles, in-demand skills, hiring trends | `PostgreSQL` |
+
+---
+
+<div align="center">
+
+<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
+
+</div>

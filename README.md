@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="assets/portrait.svg" width="300" alt="Vedagya, rendered as a dot matrix">
 
 <br>
 

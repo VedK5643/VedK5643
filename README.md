@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="assets/portrait.svg" width="300" alt="Vedagya, rendered as a dot matrix">
-
-<br>
 
 <a href="https://github.com/VedK5643">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Vedagya+Gupta;Data+Science+%26+Machine+Learning;B.Tech+CSE+%40+JECRC+Foundation;01100100+01100001+01110100+01100001" alt="typing banner">

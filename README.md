@@ -24,7 +24,7 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Vedagya** — a B.Tech CSE student (RTU, JECRC Foundation, Jaipur) building toward
+Hi, I'm **Vedagya** — a B.Tech CSE student (JECRC Foundation, Jaipur) building toward
 **Data Science and Machine Learning**. I like turning raw, messy datasets into models that
 actually predict something useful, and I solve DSA problems to keep my fundamentals sharp.
 

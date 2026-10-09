@@ -33,7 +33,7 @@ actually predict something useful, and I solve DSA problems to keep my fundament
 - 👯 I'm looking to collaborate on **Data Science / ML projects**
 - 🤔 I'm looking for help with **production-grade ML pipelines**
 - 💬 Ask me about **Python, SQL, XGBoost, scikit-learn, Streamlit**
-- 🎯 Aiming for Data Science / ML roles — not analyst
+- 🎯 Aiming for Data Science / ML roles
 
 <br>
 

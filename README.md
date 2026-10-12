@@ -12,7 +12,7 @@
 <a href="https://portfolio-one-cyan-75.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://leetcode.com/u/Vedagya_Gupta/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
-<img src="https://komarev.com/ghpvc/?username=VedK5643&style=flat&color=39d353&label=profile+views" alt="profile views">
+<img src="https://api.visitorbadge.io/api/visitors?path=VedK5643&label=Profile%20Views&countColor=%2339d353" alt="profile views">
 
 </div>
 
